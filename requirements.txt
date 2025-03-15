@@ -1,5 +1,5 @@
-panda
-ta
-numpy
 ccxt
-request
+pandas
+numpy
+ta
+requests
