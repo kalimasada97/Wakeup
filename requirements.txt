@@ -3,3 +3,6 @@ pandas
 numpy
 ta
 requests
+dotenv
+python-telegram-bot
+python-binance
